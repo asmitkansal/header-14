@@ -1,0 +1,90 @@
+#one{
+    color: #7e4fbbf5;
+    font-weight: bold;
+}
+#two{
+    color: white;
+    font-weight: bold;
+}
+#three{
+    color: white;
+    font-weight: bold;
+}
+#four{
+    color: white;
+    font-weight: bold;
+
+}
+#five{
+    color: white; 
+    background-color: #fc665bf6;
+    border-radius: 30px;
+    font-weight: bold;
+
+}
+*{
+    background-color: #540ab4f5;
+}
+.back{
+    background-color:#540ab4f5;
+    border: #540ab4f5;
+}
+#stat{
+    color: white;
+    font-weight: bold;
+}
+#we{
+    color: white;
+}
+#or{
+    background-color: white;
+}
+#button1{
+    background-color: #3ab7ff;
+    color: white;
+    border-radius: 25px;
+}
+#button2{
+    background-color: rgb(20, 20, 252);
+color: white;
+border-radius: 25px;
+}
+.remember{
+    color: grey;
+    width: 250px;
+    background-color: white;
+}
+#email{
+ color: grey;
+ background-color:white;
+ border: grey;
+ border-radius: 100px;
+}
+#password{
+    color: grey;
+    background-color:white;
+    border: grey;
+    border-radius: 100px;
+}
+.do{
+    font-size: 20px;
+    background-color: white;
+    color: grey;
+}
+.sign{
+    background-color: white;
+    font-size: 20px;
+    color: #3ab7ff;
+}
+.button3{
+    width: 140px;
+    height: 40px;
+    background-color: rgb(252, 61, 125);
+    border-radius: 30px;
+    border: rgb(252, 61, 125);
+    color: white;
+}
+.up{
+    background-color: white;
+    border-radius: 100px;
+}
