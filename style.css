@@ -1,39 +1,55 @@
 #one{
     color: #7e4fbbf5;
     font-weight: bold;
+    position: relative;
+    right: 120px;
 }
 #two{
     color: white;
     font-weight: bold;
+    position: relative;
+    right: 120px;
 }
 #three{
     color: white;
     font-weight: bold;
+    position: relative;
+    right: 120px;
 }
 #four{
     color: white;
     font-weight: bold;
-
+    position: relative;
+    right: 120px;
 }
 #five{
     color: white; 
     background-color:  rgb(252, 61, 125);
     border-radius: 30px;
     font-weight: bold;
-
+    position: relative;
+    right: 120px;
 }
 *{
-    background-color: #540ab4f5;
+    background-color: #331aa3f5;
 }
 .back{
-    background-color:#540ab4f5;
-    border: #540ab4f5;
+    background-color:#2b0fa8f5;
+    border: #2b0fa8f5;
 }
 #stat{
     color: white;
-    font-weight: bold;
+ font-weight: bold;
+ width: 400px;
+ position: relative;
+right: 30px;
 }
 #we{
+    color: white;
+    font-size: 60px;
+   
+}
+#me{
     color: white;
 }
 #or{
@@ -42,39 +58,59 @@
 #button1{
     background-color: #3ab7ff;
     color: white;
-    border-radius: 25px;
+    border-radius: 30px;
+    width: 200px;
+    border: #3ab7ff;
 }
 #button2{
-    background-color: rgb(20, 20, 252);
+    background-color: #2b0fa8f5;
 color: white;
-border-radius: 25px;
+border-radius: 30px;
+border: #2b0fa8f5;
+width: 200px;
 }
 .remember{
-    color: grey;
-    width: 250px;
+    min-width: 250px;
+    max-width: 550px;
+    background-color: white;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(165, 162, 162);
+}
+
+#email1{
     background-color: white;
 }
 #email{
  color: grey;
- background-color:white;
- border: grey;
- border-radius: 100px;
+ background-color: white;
+ height: 40px;
+top: 2px;
+left: 5px;
+border-radius: 20px;
 }
+
 #password{
     color: grey;
     background-color:white;
-    border: grey;
-    border-radius: 100px;
+    height: 40px;
+    top: 2px;
+    left: 5px;
+    border-radius: 20px;
 }
 .do{
+    text-align: center;
     font-size: 20px;
     background-color: white;
-    color: grey;
+    font-weight: 100;
+    color: rgb(163, 149, 149);
 }
 .sign{
     background-color: white;
-    font-size: 20px;
-    color: #3ab7ff;
+    font-size: 35px;
+    font-weight: bold;
+    color: #2b0fa8f5;
+    text-align: center;
 }
 .button3{
     width: 140px;
@@ -87,4 +123,19 @@ border-radius: 25px;
 .up{
     background-color: white;
     border-radius: 100px;
+    display: grid;
+    font-size: 15px;
+    display:contents;
+}
+#cont{
+    background-color: white;
+   width: 300px;
+    position:relative;
+    top: 0;
+   left: 00px;
+  border-radius: 10px;
+  display: block;
+}
+#up{
+    color: rgb(31, 139, 226);
 }
